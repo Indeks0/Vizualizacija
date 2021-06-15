@@ -1,0 +1,61 @@
+*{
+  background-color: darkgrey;
+}
+
+body {
+    background-color: #F2F3F6;
+    font-family: "Verdana", sans-serif;
+    height: 100vh;
+  }
+  
+  html, body { margin:0; padding:0; overflow:hidden }
+  h1 {
+    color: darkblue;
+    margin: 0;
+    font-size: 35px;
+    text-align: center;
+  }
+
+  p{
+    position: absolute;
+    right: 450px;
+    top: 180px;
+    margin: 90;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+  }
+  section{
+  height: 100vh;
+
+  }
+  .containerAll{
+    height: 100vh;
+  }
+  .map {
+    padding: 20px;
+    background-color: #FFFFFF;
+    border: 1px solid #4D8DC4;
+    box-shadow: 1px 1px 15px #000000;
+    position: absolute;
+    display: block;
+  }
+  
+  div.tooltip {   
+    position: absolute;
+    padding: 7px;
+    font-size: 0.8em;
+    pointer-events: none;
+    background: #8ee1fa;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+  }  
+  
+  .background {
+    fill: transparent;
+  }
+  
+  .world {
+    transform-origin: center;
+  }

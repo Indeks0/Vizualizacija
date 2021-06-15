@@ -1,0 +1,7 @@
+Nakon što preuzmete kod s GitHuba pomoću Visual Studio Code-a ga je potrebno pokrenuti.
+Potrebno je instalirati ekstenziju unutar VS Code-a na način da kliknete na ikonicu "Extensions" ili korištenjem kratice:
+"Ctrl + Shift + X", te je nakon toga u tražilicu potrebno upisati "Live Server". Nakon klika na pronađenu ekstenziju potrebno
+ju je preuzeti klikom na gumb "Install". 
+
+Nakon uspješne instalacije potrebno je otvoriti "index.html" datoteku unutar VS Code-a tada nakon jednostavog desnog klika 
+na bilo koje mjestu unutar "index.html" datoteke odabiremo opciju "Open with Live Server" ili pomoću kratice:"Alt + L Alt + O"
